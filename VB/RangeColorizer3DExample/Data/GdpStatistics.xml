@@ -1,0 +1,19 @@
+<Statistics>
+  <Gdp Year="2014" Country="USA" Value="17348" Region="Americas"/>
+  <Gdp Year="2014" Country="China" Value="10430" Region="Asia"/>
+  <Gdp Year="2014" Country="Japan" Value="4602" Region="Asia"/>
+  <Gdp Year="2014" Country="Germany" Value="3868" Region="Europe"/>
+  <Gdp Year="2014" Country="UK" Value="2989" Region="Europe"/>
+
+  <Gdp Year="2015" Country="USA" Value="17947" Region="Americas"/>
+  <Gdp Year="2015" Country="China" Value="10866" Region="Asia"/>
+  <Gdp Year="2015" Country="Japan" Value="4123" Region="Asia"/>
+  <Gdp Year="2015" Country="Germany" Value="3356" Region="Europe"/>
+  <Gdp Year="2015" Country="UK" Value="2849" Region="Europe"/>
+
+  <Gdp Year="2016" Country="USA" Value="18561" Region="Americas"/>
+  <Gdp Year="2016" Country="China" Value="11392" Region="Asia"/>
+  <Gdp Year="2016" Country="Japan" Value="4730" Region="Asia"/>
+  <Gdp Year="2016" Country="Germany" Value="3495" Region="Europe"/>
+  <Gdp Year="2016" Country="UK" Value="2650" Region="Europe"/>
+</Statistics>
