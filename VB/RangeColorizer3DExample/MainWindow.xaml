@@ -52,8 +52,7 @@
                     <dxc:SeriesPoint3DDataSourceAdapter DataSource="{Binding Path=Gdps}"
                                                         XArgumentDataMember="Country"
                                                         YArgumentDataMember="Year"
-                                                        ValueDataMember="Value"
-                                                        ColorDataMember="Region" />
+                                                        ValueDataMember="Value"/>
                 </dxc:Series3D>
                 <!--endregion #Series-->
             </dxc:Series3DStorage>
